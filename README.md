@@ -10,6 +10,6 @@ This model was conceived spontaneously on May 31, 2025, and recorded in its orig
 Logan Srinivasan 
 Date of Original Theory: May 31, 2025
 
-### License
+### License:
 This work is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).  
 https://creativecommons.org/licenses/by-nc/4.0/
